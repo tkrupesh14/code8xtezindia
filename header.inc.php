@@ -65,7 +65,7 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#schedules">
-                  schedules
+                  schedule
                 </a>
               </li>
               <li class="nav-item">
@@ -75,7 +75,7 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#sponsors">
-                  Sponsors
+                  Partners
                 </a>
               </li>
              
@@ -100,7 +100,7 @@
              <a class="page-scroll" href="#schedules">schedules</a>
           </li>
           <li>
-            <a class="page-scroll" href="#team">Speakers</a>
+            <a class="page-scroll" href="#team">Speaker</a>
           </li>
           <li>
             <a class="page-scroll" href="#gallery">Gallery</a>
@@ -109,7 +109,7 @@
             <a class="page-scroll" href="#faq">Faq</a>
           </li>
           <li>
-            <a class="page-scroll" href="#sponsors">Sponsors</a>
+            <a class="page-scroll" href="#sponsors">Partners</a>
           </li>
          
             <a class="page-scroll" href="#google-map-area">Contact</a>

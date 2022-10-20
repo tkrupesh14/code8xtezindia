@@ -4,46 +4,20 @@
 
       <!-- Main Carousel Section Start -->
       <div id="main-slide" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#main-slide" data-slide-to="0" class="active"></li>
-          <li data-target="#main-slide" data-slide-to="1"></li>
-          <li data-target="#main-slide" data-slide-to="2"></li>
-        </ol>
+     
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
-              <p class="fadeInUp wow" data-wow-delay=".6s"> Bootcamp 1.0 </p>
+           
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Tezindia Internship</h1>
               <a href="#" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Get Ticket</a>
               <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
             </div>
           </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="assets/img/slider/slide2.jpg" alt="Second slide">
-            <div class="carousel-caption d-md-block">
-              <p class="fadeInUp wow" data-wow-delay=".6s">Global Grand Event on Digital Design</p>
-              <h1 class="wow bounceIn heading" data-wow-delay=".7s">22 Amazing Speakers</h1>
-              <a href="#" class="fadeInUp wow btn btn-border btn-lg" data-wow-delay=".8s">Learn More</a>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="assets/img/slider/slide3.jpg" alt="Third slide">
-            <div class="carousel-caption d-md-block">
-              <p class="fadeInUp wow" data-wow-delay=".6s">Global Grand Event on Digital Design</p>
-              <h1 class="wow fadeInUp heading" data-wow-delay=".6s">Book Your Seat Now!</h1>
-              <a href="#" class="fadeInUp wow btn btn-common btn-lg" data-wow-delay=".8s">Explore</a>
-            </div>
-          </div>
+         
         </div>
-        <a class="carousel-control-prev" href="#main-slide" role="button" data-slide="prev">
-          <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-left"></i></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#main-slide" role="button" data-slide="next">
-          <span class="carousel-control" aria-hidden="true"><i class="lni-chevron-right"></i></span>
-          <span class="sr-only">Next</span>
-        </a>
+        
       </div>
       <!-- Main Carousel Section End -->
 
@@ -77,7 +51,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Why You Choose Us?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -167,7 +141,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">About This Events</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -227,7 +201,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Who's Speaking?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -269,7 +243,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Our Mentors</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -333,7 +307,7 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title-header text-center">
-              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Schedules</h1>
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Event Schedule</h1>
               <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipiscing <br> elit, sed do eiusmod tempor</p>
             </div>
           </div>
@@ -713,7 +687,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Ask Question?</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -833,8 +807,8 @@
         <div class="row">
           <div class="col-12">
             <div class="section-title-header text-center">
-              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Sponsores</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Partners</h1>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur</p>
             </div>
           </div>
         </div>
@@ -871,38 +845,9 @@
 
    
 
-    <!-- Subscribe Area Start -->
-    <div id="subscribe" class="section-padding">
-      <div class="container">
-        <div class="row justify-content-md-center">
-          <div class="col-md-10 col-lg-7">
-            <div class="subscribe-inner wow fadeInDown" data-wow-delay="0.3s">
-              <h2 class="subscribe-title">Sign Up For Our Newsletter</h2>
-              <form class="text-center form-inline">
-                <input class="mb-20 form-control" name="email" placeholder="Enter Your Email Here">
-                <button type="submit" class="btn btn-common sub-btn" data-style="zoom-in" data-spinner-size="30" name="submit" id="submit">
-                <span class="ladda-label"><i class="lni-check-box"></i> Submit</span>
-                </button>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Subscribe Area End -->
+    
 
-    <!-- Map Section Start -->
-    <section id="google-map-area">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-12">
-            <div id="conatiner-map"></div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Map Section End -->
-
+   
     <!-- Contact Us Section -->
     <section id="contact-map" class="section-padding">
       <div class="container">
@@ -910,7 +855,7 @@
           <div class="col-12">
             <div class="section-title-header text-center">
               <h1 class="section-title wow fadeInUp" data-wow-delay="0.2s">Drop A Message</h1>
-              <p class="wow fadeInDown" data-wow-delay="0.2s">Global Grand Event on Digital Design</p>
+              <p class="wow fadeInDown" data-wow-delay="0.2s">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, delectus!</p>
             </div>
           </div>
           <div class="col-lg-7 col-md-12 col-xs-12">
