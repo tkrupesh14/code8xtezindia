@@ -38,7 +38,7 @@
               <span class="icon-menu"></span>
               <span class="icon-menu"></span>
             </button>
-            <a href="index.html" class="navbar-brand"><img src="assets/img/logo.png" alt=""></a>
+            <a href="index.html" class=""><img src="https://tezosindia.codeate.in/assets/logo/code8Logo.svg" alt="" width="75"> <img src="https://tezosindia.codeate.in/assets/logo/cross.svg" alt="" width="30"><img src="https://tezosindia.codeate.in/assets/logo/tezos.svg" alt="" width="90"></a>
           </div>
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="navbar-nav mr-auto w-100 justify-content-end">
