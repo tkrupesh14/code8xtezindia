@@ -4,7 +4,11 @@ html {
 }
 
 body {
-  background: #fff;
+  background-color: #0B172A;
+  background-image: url("../img/background/background.webp");
+
+  background-attachment: fixed;
+  background-size: cover;
   font-size: 15px;
   font-weight: 400;
   font-family: 'Lato', sans-serif;
@@ -18,6 +22,7 @@ body {
   backface-visibility: hidden;
   overflow-x: hidden;
 }
+
 
 h1, h2, h3, h4 {
   font-size: 36px;
@@ -86,7 +91,21 @@ ul li, ol li {
   width: 100%;
   text-align: center;
 }
-
+#about .section-title,#about p{
+  color: #fff;
+}
+#speakers .section-title, #speakers p{
+  color: #fff;
+}
+#mentors .section-title, #mentors p{
+  color: #fff;
+}
+#faq .section-title, #faq p{
+  color: #fff;
+}
+#contact-map .section-title, #contact-map p{
+  color: #fff;
+}
 .section-title-header p {
   text: center;
   font-weight: 400;
@@ -1925,7 +1944,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .countdown-timer .heading-count h2 {
   font-size: 40px;
-  color: #212121;
+  color: #fff;
   text-transform: uppercase;
   line-height: 48px;
 }

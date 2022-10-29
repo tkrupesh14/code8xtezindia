@@ -7,12 +7,12 @@
      
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="First slide">
+            <img class="d-block w-100" src="assets/img/background/bg1.jpg" alt="First slide">
             <div class="carousel-caption d-md-block">
            
               <h1 class="wow fadeInDown heading" data-wow-delay=".4s">Tezindia Internship</h1>
-              <a href="#" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Get Ticket</a>
-              <a href="#" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
+              <a href="./register.php" class="fadeInLeft wow btn btn-common btn-lg" data-wow-delay=".6s">Register</a>
+              <a href="#about" class="fadeInRight wow btn btn-border btn-lg" data-wow-delay=".6s">Explore More</a>
             </div>
           </div>
          
@@ -231,7 +231,7 @@
           </div>
         
         </div>
-        <a href="speakers.html" class="btn btn-common mt-30 wow fadeInUp" data-wow-delay="1.9s">All Speakers</a>
+      
       </div>
     </section>
     <!-- Team Section End -->
